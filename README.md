@@ -12,7 +12,7 @@ If it's not there, troubleshoot two potential issues:
 2. During MySQL installation, double-check that you added `Samples and Examples` in the setup phase.
 
 If you for some reason could not setup `Samples and Examples` during installation.  
-Refer to SQL-script in [world-database-backup.zip](/03_world_database_backup.zip).
+Refer to SQL-script in `03_world_database_backup.zip`
 
 ---
 
